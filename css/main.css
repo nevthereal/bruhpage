@@ -621,6 +621,11 @@ video {
   margin-bottom: 1rem;
 }
 
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .mt-4 {
   margin-top: 1rem;
 }
