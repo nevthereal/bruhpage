@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        beatifulBlue: '#047bbf'
+        beatifulBlue: '#047bbf',
+        ooyyPink: '#d84db6'
       }
     },
   },
